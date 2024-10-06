@@ -1,0 +1,40 @@
+body{
+	background: #ddd7c1;
+	color: #00FF00;
+	font-family: sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, Times, serif;
+	grid-template-rows:auto 1fr auto;
+            height: 500vh;
+			padding-top: 10px;
+			width: 99%;
+}
+
+h1{
+	color: #812525;
+	text-shadow:0 0 2px rgb(31, 34, 34);
+	text-align: center;
+	font-size: xx-large;
+}
+
+h2{
+	color: #490909;
+	text-shadow:0 0 2px rgb(42, 42, 43);
+	text-align: center;
+	font-size: larger;
+}
+
+h3{
+	color: #490909;
+	text-shadow:0 0 2px rgb(42, 42, 43);
+	text-align: center;
+	font-size: larger;
+}
+
+p{
+	color: #222121;
+	text-align: left;
+	font-size: medium;
+}
+
+a:visited{
+	color: aqua;
+}

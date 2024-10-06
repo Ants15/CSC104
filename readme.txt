@@ -1,2 +1,0 @@
-We took the constitution HTML file and the CSS file that was attached. I change all of the colors that were reflecting on the CSS file and changed it to easier to read colors. I then took the font sizes and increase some areas and decreased others. 
-Experiment with the different properties that affect text display, and various text formats to create effective and interesting page design. You can use for reference the constitution.html and style.css posted, which is just a plain black and white text version using some very basic CSS.
